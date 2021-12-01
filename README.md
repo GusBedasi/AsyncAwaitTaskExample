@@ -78,6 +78,6 @@ async Task Method2()
 
 ### Code running GIF
 
-![Alt Text](./assets/code.gif)
+![Alt Text](https://github.com/GusBedasi/AsyncAwaitTaskExample/blob/main/TestTask/assets/code.gif?raw=true)
 
 As you can see, the first one only took 5s and the second one took 7s.
